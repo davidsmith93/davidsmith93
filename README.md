@@ -1,6 +1,6 @@
 ## Why hello there 👋
 
-I am David Smith, a senior Java engineer at Booking.com who is dabbling in the world of serverless architecture and Typescript.
+I am David Smith, a technical lead at Vyne who is embracing the Open Banking space.
 
 ### Experience
 #### Cloud
