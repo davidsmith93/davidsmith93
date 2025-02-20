@@ -8,6 +8,7 @@ I am David Smith, a technical lead at Vyne who is embracing the Open Banking spa
 
 #### Languages
 ![](https://img.shields.io/badge/Java-informational?style=flat-square&logo=java&logoColor=white&color=007396)
+![](https://img.shields.io/badge/C%23-informational?style=flat-square&logo=c%23&logoColor=white&color=00599C)
 ![](https://img.shields.io/badge/C++-informational?style=flat-square&logo=c%2B%2B&logoColor=white&color=00599C)
 ![](https://img.shields.io/badge/Python-informational?style=flat-square&logo=python&logoColor=white&color=3776AB)
 ![](https://img.shields.io/badge/Typescript-informational?style=flat-square&logo=typescript&logoColor=white&color=007ACC)
@@ -21,9 +22,13 @@ I am David Smith, a technical lead at Vyne who is embracing the Open Banking spa
 ![](https://img.shields.io/badge/Jenkins-informational?style=flat-square&logo=jenkins&logoColor=white&color=D24939)
 ![](https://img.shields.io/badge/Bamboo-informational?style=flat-square&logo=bamboo&logoColor=white&color=0052CC)
 ![](https://img.shields.io/badge/CodePipeline-informational?style=flat-square&logo=amazon-aws&logoColor=white&color=232F3E)
+![](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=fff&style=flat-square)
+![](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=fff&style=flat-square)
 
 #### Containers
 ![](https://img.shields.io/badge/Docker-informational?style=flat-square&logo=docker&logoColor=white&color=2496ED)
+![](https://img.shields.io/badge/Terraform-844FBA?logo=terraform&logoColor=fff&style=flat-square)
+![](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff&style=flat-square)
 
 #### Build Tools
 ![](https://img.shields.io/badge/Gradle-informational?style=flat-square&logo=gradle&logoColor=white&color=02303A)
