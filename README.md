@@ -1,7 +1,5 @@
 ## Why hello there 👋
 
-I am David Smith, a technical lead at Vyne who is embracing the Open Banking space.
-
 ### Experience
 #### Cloud
 ![](https://img.shields.io/badge/AWS-informational?style=flat-square&logo=amazon-aws&logoColor=white&color=232F3E)
