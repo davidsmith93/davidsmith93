@@ -34,6 +34,7 @@
 ![](https://img.shields.io/badge/NPM-informational?style=flat-square&logo=npm&logoColor=white&color=BD0004)
 
 #### Storage
+![](https://img.shields.io/badge/Postgresql-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![](https://img.shields.io/badge/MySql-informational?style=flat-square&logo=mysql&logoColor=white&color=4479A1)
 ![](https://img.shields.io/badge/MSSQL-informational?style=flat-square&logo=Microsoft-SQL-Server&logoColor=white&color=CC2927)
 ![](https://img.shields.io/badge/Dynamo%20DB-informational?style=flat-square&logo=Amazon-DynamoDB&logoColor=white&color=4053D6)
