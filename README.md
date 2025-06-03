@@ -1,8 +1,10 @@
 ## Why hello there 👋
 
+![](https://forthebadge.com/images/badges/makes-people-smile.svg)
+
 ### Experience
 #### Cloud
-![](https://img.shields.io/badge/AWS-informational?style=flat-square&logo=amazon-aws&logoColor=white&color=232F3E)
+![](https://img.shields.io/badge/AWS-FC6D26?style=flat-square&logo=Amazon-AWS&logoColor=white)
 
 #### Languages
 ![](https://img.shields.io/badge/Java-informational?style=flat-square&logo=java&logoColor=white&color=007396)
